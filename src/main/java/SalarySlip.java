@@ -3,22 +3,29 @@ import java.math.RoundingMode;
 
 public class SalarySlip {
     private final Employee employee;
-    private BigDecimal TWELVE_MONTHS = new BigDecimal(12);
-    private int PRECISION_GROSS_SALARY = 2;
+    private final NationalInsuranceContribution nationalInsuranceContribution;
 
-    public SalarySlip(Employee employee) {
+    private final BigDecimal TWELVE_MONTHS = new BigDecimal(12);
+    private final int PRECISION_GROSS_SALARY = 2;
+
+    public SalarySlip(Employee employee, NationalInsuranceContribution nationalInsuranceContribution) {
         this.employee = employee;
+        this.nationalInsuranceContribution = nationalInsuranceContribution;
     }
 
-    public int EmployeeId() {
+    public int employeeId() {
         return this.employee.Id();
     }
 
-    public String EmployeeName() {
+    public String employeeName() {
         return this.employee.Name();
     }
 
-    public BigDecimal MonthlyGrossSalary() {
+    public BigDecimal monthlyGrossSalary() {
         return this.employee.AnnualGrossSalary().divide(TWELVE_MONTHS, PRECISION_GROSS_SALARY, RoundingMode.HALF_DOWN);
+    }
+
+    public double nationalInsuranceContribution() {
+        return this.nationalInsuranceContribution.contribution();
     }
 }
