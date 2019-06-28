@@ -18,9 +18,16 @@ public class NationalInsuranceContributionShould {
     }
 
     @Test
-    public void be_twelve_percent_when_annual_salary_slip_is_above_9060() {
-        NationalInsuranceContribution nationalInsuranceContribution = new NationalInsuranceContribution(9060);
+    public void be_twelve_percent_when_annual_salary_slip_is_equal_43000() {
+        NationalInsuranceContribution nationalInsuranceContribution = new NationalInsuranceContribution(43000);
 
-        assertThat(nationalInsuranceContribution.contribution()).isEqualTo(10);
+        assertThat(nationalInsuranceContribution.contribution()).isEqualTo(349.40);
+    }
+
+    @Test
+    public void be_twelve_percent_when_annual_salary_slip_is_above_43000() {
+        NationalInsuranceContribution nationalInsuranceContribution = new NationalInsuranceContribution(45000);
+
+        assertThat(nationalInsuranceContribution.contribution()).isEqualTo(372.73);
     }
 }

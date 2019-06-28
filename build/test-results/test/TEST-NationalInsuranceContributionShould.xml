@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="NationalInsuranceContributionShould" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-06-28T07:57:58" hostname="Damians-MacBook-Pro.local" time="0.009">
+<testsuite name="NationalInsuranceContributionShould" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-06-28T08:27:24" hostname="Damians-MacBook-Pro.local" time="0.007">
   <properties/>
-  <testcase name="be_twelve_percent_when_annual_salary_slip_is_above_9060" classname="NationalInsuranceContributionShould" time="0.007"/>
-  <testcase name="be_zero_percent_when_annual_salary_slip_is_below_8060" classname="NationalInsuranceContributionShould" time="0.001"/>
-  <testcase name="be_zero_percent_when_annual_salary_slip_is_equal_8060" classname="NationalInsuranceContributionShould" time="0.0"/>
+  <testcase name="be_zero_percent_when_annual_salary_slip_is_below_8060" classname="NationalInsuranceContributionShould" time="0.004"/>
+  <testcase name="be_zero_percent_when_annual_salary_slip_is_equal_8060" classname="NationalInsuranceContributionShould" time="0.001"/>
+  <testcase name="be_twelve_percent_when_annual_salary_slip_is_above_43000" classname="NationalInsuranceContributionShould" time="0.001"/>
+  <testcase name="be_twelve_percent_when_annual_salary_slip_is_equal_43000" classname="NationalInsuranceContributionShould" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
