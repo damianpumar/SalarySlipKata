@@ -19,4 +19,13 @@ public class TaxShould {
         assertThat(tax.taxableIncome()).isEqualTo(83.33);
         assertThat(tax.taxPayable()).isEqualTo(16.67);
     }
+
+    @Test
+    public void be_Twenty_Percent_Taxes_When_Salary_Is_Above_43000() {
+        Tax tax = new Tax(45000);
+
+        assertThat(tax.taxFreeAllowance()).isEqualTo(916.67);
+        assertThat(tax.taxableIncome()).isEqualTo(2833.33);
+        assertThat(tax.taxPayable()).isEqualTo(600);
+    }
 }

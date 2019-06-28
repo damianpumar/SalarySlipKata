@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c9ccd3c-0ac6-47f2-8d17-f38248f62073" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TaxShould.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/SalarySlip.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/SalarySlip.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/SalarySlipGeneratorShould.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/SalarySlipGeneratorShould.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/NationalInsuranceContributionShould.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/SalarySlipGeneratorShould.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/TaxShould.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
@@ -26,12 +12,10 @@
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-NationalInsuranceContributionShould.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-SalarySlipGeneratorShould.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SalarySlip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SalarySlip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SalarySlipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SalarySlipGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SalarySlipGeneratorShould.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SalarySlipGeneratorShould.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TaxShould.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TaxShould.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -62,13 +46,28 @@
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SalarySlipKata" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SalarySlipGeneratorShould.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TaxShould.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
+            <state relative-caret-position="402">
+              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Tax.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,18 +103,18 @@
         <option value="$PROJECT_DIR$/src/main/java/Employee.java" />
         <option value="$PROJECT_DIR$/src/test/java/NationalInsuranceContributionShould.java" />
         <option value="$PROJECT_DIR$/src/main/java/NationalInsuranceContribution.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TaxShould.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Tax.java" />
         <option value="$PROJECT_DIR$/src/main/java/SalarySlipGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/SalarySlip.java" />
         <option value="$PROJECT_DIR$/src/test/java/SalarySlipGeneratorShould.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TaxShould.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tax.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="820" />
+    <option name="height" value="410" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -141,6 +140,13 @@
               <item name="SalarySlipKata" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="SalarySlipKata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SalarySlipKata" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SalarySlipKata" type="b2602c69:ProjectViewProjectNode" />
@@ -213,32 +219,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SalarySlipGeneratorShould.calculate_Salary_Slip_With_Taxable_Income" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="TaxShould" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;SalarySlipGeneratorShould.calculate_Salary_Slip_With_Taxable_Income&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="TaxShould.be_Twenty_Percent_Taxable_Income_When_Salary_Is_Above_11000" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;TaxShould.be_Twenty_Percent_Taxable_Income_When_Salary_Is_Above_11000&quot;" />
+        <option name="scriptParameters" value="--tests &quot;TaxShould&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -259,6 +245,26 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_43000" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_43000&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -296,10 +302,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.Tests in 'SalarySlipKata.test'" />
-        <item itemvalue="Gradle.SalarySlipGeneratorShould.calculate_Salary_Slip_With_Tax" />
-        <item itemvalue="Gradle.SalarySlipGeneratorShould.calculate_Salary_Slip_With_Taxable_Income" />
+        <item itemvalue="Gradle.TaxShould" />
+        <item itemvalue="Gradle.TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_43000" />
         <item itemvalue="Gradle.TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000" />
-        <item itemvalue="Gradle.TaxShould.be_Twenty_Percent_Taxable_Income_When_Salary_Is_Above_11000" />
+        <item itemvalue="Gradle.SalarySlipGeneratorShould.calculate_Salary_Slip_With_Tax" />
       </list>
     </recent_temporary>
   </component>
@@ -307,52 +313,52 @@
     <configuration />
   </component>
   <component name="TestHistory">
-    <history-entry file="TaxShould_be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000 - 2019.06.28 at 10h 45m 20s.xml">
-      <configuration name="TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000" configurationId="GradleRunConfiguration" />
+    <history-entry file="TaxShould_be_Twenty_Percent_Taxes_When_Salary_Is_Above_43000 - 2019.06.28 at 11h 45m 36s.xml">
+      <configuration name="TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_43000" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="TaxShould_be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000 - 2019.06.28 at 10h 47m 42s.xml">
-      <configuration name="TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000" configurationId="GradleRunConfiguration" />
+    <history-entry file="TaxShould - 2019.06.28 at 11h 45m 46s.xml">
+      <configuration name="TaxShould" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="TaxShould_be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000 - 2019.06.28 at 10h 48m 41s.xml">
-      <configuration name="TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000" configurationId="GradleRunConfiguration" />
+    <history-entry file="TaxShould_be_Twenty_Percent_Taxes_When_Salary_Is_Above_43000 - 2019.06.28 at 11h 47m 03s.xml">
+      <configuration name="TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_43000" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Tests_in_'SalarySlipKata_test' - 2019.06.28 at 10h 50m 36s.xml">
-      <configuration name="Tests in 'SalarySlipKata.test'" configurationId="GradleRunConfiguration" />
+    <history-entry file="TaxShould - 2019.06.28 at 11h 47m 31s.xml">
+      <configuration name="TaxShould" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Tests_in_'SalarySlipKata_test' - 2019.06.28 at 10h 52m 11s.xml">
-      <configuration name="Tests in 'SalarySlipKata.test'" configurationId="GradleRunConfiguration" />
+    <history-entry file="TaxShould_be_Twenty_Percent_Taxes_When_Salary_Is_Above_43000 - 2019.06.28 at 11h 47m 36s.xml">
+      <configuration name="TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_43000" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SalarySlipGeneratorShould_calculate_Salary_Slip_With_Taxable_Income - 2019.06.28 at 10h 52m 32s.xml">
-      <configuration name="SalarySlipGeneratorShould.calculate_Salary_Slip_With_Taxable_Income" configurationId="GradleRunConfiguration" />
+    <history-entry file="TaxShould_be_Twenty_Percent_Taxes_When_Salary_Is_Above_43000 - 2019.06.28 at 11h 47m 51s.xml">
+      <configuration name="TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_43000" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Tests_in_'SalarySlipKata_test' - 2019.06.28 at 10h 52m 36s.xml">
-      <configuration name="Tests in 'SalarySlipKata.test'" configurationId="GradleRunConfiguration" />
+    <history-entry file="TaxShould_be_Twenty_Percent_Taxes_When_Salary_Is_Above_43000 - 2019.06.28 at 11h 49m 50s.xml">
+      <configuration name="TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_43000" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SalarySlipGeneratorShould_calculate_Salary_Slip_With_Tax - 2019.06.28 at 10h 55m 38s.xml">
-      <configuration name="SalarySlipGeneratorShould.calculate_Salary_Slip_With_Tax" configurationId="GradleRunConfiguration" />
+    <history-entry file="TaxShould - 2019.06.28 at 11h 50m 45s.xml">
+      <configuration name="TaxShould" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="SalarySlipGeneratorShould_calculate_Salary_Slip_With_Tax - 2019.06.28 at 10h 56m 12s.xml">
-      <configuration name="SalarySlipGeneratorShould.calculate_Salary_Slip_With_Tax" configurationId="GradleRunConfiguration" />
+    <history-entry file="TaxShould - 2019.06.28 at 11h 50m 46s.xml">
+      <configuration name="TaxShould" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Tests_in_'SalarySlipKata_test' - 2019.06.28 at 10h 56m 17s.xml">
+    <history-entry file="Tests_in_'SalarySlipKata_test' - 2019.06.28 at 11h 50m 57s.xml">
       <configuration name="Tests in 'SalarySlipKata.test'" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="820" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="819" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15307583" />
+      <window_info id="Favorites" sideWeight="0.501845" side_tool="true" weight="0.15307583" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.15307583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23214285" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997253" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23246217" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.25447044" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -391,29 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/NationalInsuranceContributionShould.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/NationalInsuranceContribution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -428,28 +411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TaxShould.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1240#1241#0" expanded="true" />
-            <element signature="e#1311#1312#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -475,10 +436,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NationalInsuranceContributionShould.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SalarySlipGeneratorShould.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
+        <state relative-caret-position="55">
+          <caret line="51" column="43" lean-forward="true" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TaxShould.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
