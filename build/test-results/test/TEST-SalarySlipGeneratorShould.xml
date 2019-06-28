@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SalarySlipGeneratorShould" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-06-28T08:27:24" hostname="Damians-MacBook-Pro.local" time="0.373">
+<testsuite name="SalarySlipGeneratorShould" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-06-28T08:57:04" hostname="Damians-MacBook-Pro.local" time="0.411">
   <properties/>
-  <testcase name="calculate_Salary_Slip_Of_5k_Income_Employee" classname="SalarySlipGeneratorShould" time="0.362"/>
-  <testcase name="calculate_Salary_Slip_With_National_Insurance_Contribution" classname="SalarySlipGeneratorShould" time="0.011"/>
+  <testcase name="calculate_Salary_Slip_With_Tax" classname="SalarySlipGeneratorShould" time="0.403"/>
+  <testcase name="calculate_Salary_Slip_Of_5k_Income_Employee" classname="SalarySlipGeneratorShould" time="0.005"/>
+  <testcase name="calculate_Salary_Slip_With_National_Insurance_Contribution" classname="SalarySlipGeneratorShould" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

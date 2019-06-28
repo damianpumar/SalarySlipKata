@@ -2,9 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c9ccd3c-0ac6-47f2-8d17-f38248f62073" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TaxShould.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NationalInsuranceContribution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NationalInsuranceContribution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/NationalInsuranceContributionShould.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NationalInsuranceContributionShould.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/SalarySlip.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/SalarySlip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/SalarySlipGeneratorShould.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/SalarySlipGeneratorShould.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/NationalInsuranceContributionShould.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/SalarySlipGeneratorShould.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-NationalInsuranceContributionShould.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-SalarySlipGeneratorShould.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SalarySlip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SalarySlip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SalarySlipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SalarySlipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SalarySlipGeneratorShould.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SalarySlipGeneratorShould.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -40,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SalarySlipGeneratorShould.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+            <state relative-caret-position="274">
+              <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,11 +102,13 @@
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/Employee.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NationalInsuranceContributionShould.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NationalInsuranceContribution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TaxShould.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tax.java" />
         <option value="$PROJECT_DIR$/src/main/java/SalarySlipGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/SalarySlip.java" />
         <option value="$PROJECT_DIR$/src/test/java/SalarySlipGeneratorShould.java" />
-        <option value="$PROJECT_DIR$/src/test/java/NationalInsuranceContributionShould.java" />
-        <option value="$PROJECT_DIR$/src/main/java/NationalInsuranceContribution.java" />
       </list>
     </option>
   </component>
@@ -137,6 +166,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RecentsManager">
@@ -163,12 +193,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Gradle.Tests in 'SalarySlipKata.test'">
-    <configuration name="NationalInsuranceContributionShould" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SalarySlipGeneratorShould.calculate_Salary_Slip_With_Tax" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;NationalInsuranceContributionShould&quot;" />
+        <option name="scriptParameters" value="--tests &quot;SalarySlipGeneratorShould.calculate_Salary_Slip_With_Tax&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -183,12 +213,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="NationalInsuranceContributionShould.be_twelve_percent_when_annual_salary_slip_is_above_43000" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SalarySlipGeneratorShould.calculate_Salary_Slip_With_Taxable_Income" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;NationalInsuranceContributionShould.be_twelve_percent_when_annual_salary_slip_is_above_43000&quot;" />
+        <option name="scriptParameters" value="--tests &quot;SalarySlipGeneratorShould.calculate_Salary_Slip_With_Taxable_Income&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -203,12 +233,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="NationalInsuranceContributionShould.be_twelve_percent_when_annual_salary_slip_is_equal_43000" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="TaxShould.be_Twenty_Percent_Taxable_Income_When_Salary_Is_Above_11000" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;NationalInsuranceContributionShould.be_twelve_percent_when_annual_salary_slip_is_equal_43000&quot;" />
+        <option name="scriptParameters" value="--tests &quot;TaxShould.be_Twenty_Percent_Taxable_Income_When_Salary_Is_Above_11000&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -223,12 +253,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SalarySlipGeneratorShould.calculate_Salary_Slip_With_National_Insurance_Contribution" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;SalarySlipGeneratorShould.calculate_Salary_Slip_With_National_Insurance_Contribution&quot;" />
+        <option name="scriptParameters" value="--tests &quot;TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -266,10 +296,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.Tests in 'SalarySlipKata.test'" />
-        <item itemvalue="Gradle.NationalInsuranceContributionShould" />
-        <item itemvalue="Gradle.NationalInsuranceContributionShould.be_twelve_percent_when_annual_salary_slip_is_above_43000" />
-        <item itemvalue="Gradle.NationalInsuranceContributionShould.be_twelve_percent_when_annual_salary_slip_is_equal_43000" />
-        <item itemvalue="Gradle.SalarySlipGeneratorShould.calculate_Salary_Slip_With_National_Insurance_Contribution" />
+        <item itemvalue="Gradle.SalarySlipGeneratorShould.calculate_Salary_Slip_With_Tax" />
+        <item itemvalue="Gradle.SalarySlipGeneratorShould.calculate_Salary_Slip_With_Taxable_Income" />
+        <item itemvalue="Gradle.TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000" />
+        <item itemvalue="Gradle.TaxShould.be_Twenty_Percent_Taxable_Income_When_Salary_Is_Above_11000" />
       </list>
     </recent_temporary>
   </component>
@@ -277,34 +307,34 @@
     <configuration />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_in_'SalarySlipKata_test' - 2019.06.28 at 09h 56m 04s.xml">
+    <history-entry file="TaxShould_be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000 - 2019.06.28 at 10h 45m 20s.xml">
+      <configuration name="TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TaxShould_be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000 - 2019.06.28 at 10h 47m 42s.xml">
+      <configuration name="TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TaxShould_be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000 - 2019.06.28 at 10h 48m 41s.xml">
+      <configuration name="TaxShould.be_Twenty_Percent_Taxes_When_Salary_Is_Above_11000" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'SalarySlipKata_test' - 2019.06.28 at 10h 50m 36s.xml">
       <configuration name="Tests in 'SalarySlipKata.test'" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Tests_in_'SalarySlipKata_test' - 2019.06.28 at 09h 57m 58s.xml">
+    <history-entry file="Tests_in_'SalarySlipKata_test' - 2019.06.28 at 10h 52m 11s.xml">
       <configuration name="Tests in 'SalarySlipKata.test'" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="NationalInsuranceContributionShould_be_twelve_percent_when_annual_salary_slip_is_equal_43000 - 2019.06.28 at 10h 00m 17s.xml">
-      <configuration name="NationalInsuranceContributionShould.be_twelve_percent_when_annual_salary_slip_is_equal_43000" configurationId="GradleRunConfiguration" />
+    <history-entry file="SalarySlipGeneratorShould_calculate_Salary_Slip_With_Taxable_Income - 2019.06.28 at 10h 52m 32s.xml">
+      <configuration name="SalarySlipGeneratorShould.calculate_Salary_Slip_With_Taxable_Income" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="NationalInsuranceContributionShould_be_twelve_percent_when_annual_salary_slip_is_above_43000 - 2019.06.28 at 10h 07m 46s.xml">
-      <configuration name="NationalInsuranceContributionShould.be_twelve_percent_when_annual_salary_slip_is_above_43000" configurationId="GradleRunConfiguration" />
+    <history-entry file="Tests_in_'SalarySlipKata_test' - 2019.06.28 at 10h 52m 36s.xml">
+      <configuration name="Tests in 'SalarySlipKata.test'" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="NationalInsuranceContributionShould - 2019.06.28 at 10h 14m 05s.xml">
-      <configuration name="NationalInsuranceContributionShould" configurationId="GradleRunConfiguration" />
+    <history-entry file="SalarySlipGeneratorShould_calculate_Salary_Slip_With_Tax - 2019.06.28 at 10h 55m 38s.xml">
+      <configuration name="SalarySlipGeneratorShould.calculate_Salary_Slip_With_Tax" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="NationalInsuranceContributionShould - 2019.06.28 at 10h 14m 45s.xml">
-      <configuration name="NationalInsuranceContributionShould" configurationId="GradleRunConfiguration" />
+    <history-entry file="SalarySlipGeneratorShould_calculate_Salary_Slip_With_Tax - 2019.06.28 at 10h 56m 12s.xml">
+      <configuration name="SalarySlipGeneratorShould.calculate_Salary_Slip_With_Tax" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="NationalInsuranceContributionShould_be_twelve_percent_when_annual_salary_slip_is_above_43000 - 2019.06.28 at 10h 26m 24s.xml">
-      <configuration name="NationalInsuranceContributionShould.be_twelve_percent_when_annual_salary_slip_is_above_43000" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="NationalInsuranceContributionShould - 2019.06.28 at 10h 26m 40s.xml">
-      <configuration name="NationalInsuranceContributionShould" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="NationalInsuranceContributionShould - 2019.06.28 at 10h 27m 01s.xml">
-      <configuration name="NationalInsuranceContributionShould" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'SalarySlipKata_test' - 2019.06.28 at 10h 27m 24s.xml">
+    <history-entry file="Tests_in_'SalarySlipKata_test' - 2019.06.28 at 10h 56m 17s.xml">
       <configuration name="Tests in 'SalarySlipKata.test'" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
@@ -374,25 +404,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SalarySlip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-            <element signature="e#983#984#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SalarySlipGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/NationalInsuranceContributionShould.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -413,10 +424,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build/reports/tests/test/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TaxShould.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
+            <element signature="e#1311#1312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SalarySlipGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="83" lean-forward="true" selection-start-line="11" selection-start-column="83" selection-end-line="11" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SalarySlip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1130#1131#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1218#1219#0" expanded="true" />
+            <element signature="e#1265#1266#0" expanded="true" />
+            <element signature="e#1336#1337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SalarySlipGeneratorShould.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        <state relative-caret-position="274">
+          <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
